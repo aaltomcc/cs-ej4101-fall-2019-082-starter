@@ -10,7 +10,7 @@ The most important reasons for attending this course where:
 - learning where to get more information to know more
 - get some practical experience in how to use DevOps
 
-## What I have learned in this course
+## What I have learned on this course
 
 Basically I learned the main principles of DevOps and the reasoning for why it should be used to get competitive edge for the business. I learned the about the terms used in DevOps and got some information to be able study further.
 
