@@ -4,6 +4,6 @@ I am 50 years old Senior Manager in the ICT business area and have been leading 
 
 Since beginning of September I have been programming with python, Django, javascipt, HTML and CSS. I have completed course in IoT and also in server side web services. Now I'm studying client side web service programming.
 
-![Ukko and Billie](Ukko_ja_Billie_laiturilla.jpg)
+![Ukko and Billie](Ukko_ja_Billie_laiturilla_withCR.jpg)
 
 Link to the other page [diary-082](diary-082.md)
